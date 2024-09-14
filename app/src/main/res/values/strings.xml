@@ -18,4 +18,11 @@
     <string name="item_drawer">item drawer</string>
     <string name="categories">Categories</string>
     <string name="settings">Settings</string>
+
+    <string name="something_went_wrong">Something Went wrong.</string>
+    <string name="client_or_server_error">Client or Server Error, something went wrong.</string>
+    <string name="empty"></string>
+    <string name="there_is_problem_with_your_internet_connection_kindly_check_it">There is a problem with your internet connection kindly check your connection .</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
 </resources>

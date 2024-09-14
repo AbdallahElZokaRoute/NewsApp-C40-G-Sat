@@ -3,10 +3,12 @@ package com.route.newsappc40gsat.model
 import com.google.gson.annotations.SerializedName
 
 data class SourcesResponse(
-
+    @field:SerializedName("code")
+    val code: String? = null,
+    @field:SerializedName("message")
+    val message: String? = null,
     @field:SerializedName("sources")
     val sources: List<SourcesItem>? = null,
-
     @field:SerializedName("status")
     val status: String? = null
 )
